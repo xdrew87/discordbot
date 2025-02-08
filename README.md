@@ -19,7 +19,7 @@ pkg install python3
 
 Usage Tool
 
-git clone https://github.com/xdrew87/discordbot
+git clone https://github.com/xdrew87/discordbot.git
 
 cd discordbot
 
