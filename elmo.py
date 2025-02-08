@@ -4,7 +4,7 @@ import time
 import json
 
 # 🔗 Replace with your Discord Webhook URL
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1337518831060516864/APwRw5ZS6URK3z8QKjQdOStFWxxm91IA0S33qamcCik29c9nUNgUgHHc00GQ5n98ZKoY"
+DISCORD_WEBHOOK_URL = "WEBHOOK URL"
 
 def loading_screen():
     """Displays a loading screen."""
