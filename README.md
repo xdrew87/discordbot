@@ -1,3 +1,10 @@
+This is a tool for educational purpose only and im am not responsible for what happens. 
+My socials to msg are instagram or discord @xlsuixideix & @mlag for instagram, suicixde for discord.
+
+
+
+
+
 Installtion on Linux (deb)
 
 sudo apt-get install git
