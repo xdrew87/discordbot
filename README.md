@@ -19,9 +19,9 @@ pkg install python3
 
 Usage Tool
 
-git clone https://github.com/xdrew87/discordbot.git
+git clone https://github.com/xdrew87/elmo.git
 
-cd discordbot
+cd elmo
 
 pip3 install -r requirements.txt
 
